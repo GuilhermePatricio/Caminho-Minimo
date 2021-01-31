@@ -14,3 +14,13 @@ O custos dos terrenos, juntamente com a "Distância de Manhattan" são utilizado
 ### Exemplo de Uso
 
 #### Tela inicial
+
+![inicio](https://github.com/GuilhermePatricio/Menor-caminho/blob/main/inicio.png)
+
+#### Mapa inicial
+
+![mapa](https://github.com/GuilhermePatricio/Menor-caminho/blob/main/mapa.png)
+
+#### Tela para modificar o mapa
+
+![modifica mapa](https://github.com/GuilhermePatricio/Menor-caminho/blob/main/modifica_terreno.png)
