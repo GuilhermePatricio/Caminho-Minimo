@@ -1,4 +1,4 @@
-# Ajudando Link salvar o reino
+# Ajudando o Link a salvar o reino
 ### Descrição
 Este trabalho foi desenvolvido durante a diciplina de Inteligência Artificial do curso Sistemas da Informação. O programa encontra o caminho mínimo utilizando a busca A Star e heuristisicas. No problema em questão "Link" da serie de jogos "Legend Of Zelda" deve chegar até a "Master Sword", mas antes disso ele deve provar ser digno e para isso precisa encontrar os três "pingentes da virtude". O Programa deve mostrar o menor caminho possivel em que "Link" pegue os pingentes e chegue até a espada.
 
